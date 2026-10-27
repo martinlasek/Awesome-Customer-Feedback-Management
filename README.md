@@ -58,6 +58,7 @@ The table below summarizes leading commercial platforms, sorted by **Company Siz
 | **[Survicate](https://survicate.com/)** | Targeted in-app, website, web app, and email surveys for continuous micro-feedback collection. | $99/month (Business plan) | Free Plan forever (up to 25 responses/month & 1 active survey) | **~$40M Valuation** (~$8M ARR) |
 | **[Zonka Feedback](https://www.zonkafeedback.com/)** | Multi-channel feedback app (in-app, kiosk, SMS, email), offline surveys, and real-time CX alerts. | $49/month (Starter plan) | 7-day free trial (up to 100 survey responses included) | **~$20M Valuation** (~$44M ARR) |
 | **[NPS.today](https://nps.today/)** | Focused Net Promoter Score (NPS) measurement platform integrated with CRM and ERP workflows. | €49/month (~$54/month) | 14-day free trial (up to 50 NPS invitations included) | **~$10M Valuation** (~$2M ARR) |
+| **[WishKit](https://www.wishkit.io/)** | In-app feature request board for iOS, macOS, visionOS and web apps. Native SwiftUI SDK, user voting on features. | $12.50/month (Premium, billed yearly) | Free Plan forever (1 project, unlimited users, shows the first 5 feature requests) | Bootstrapped |
 
 ---
 
